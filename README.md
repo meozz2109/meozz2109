@@ -1,6 +1,6 @@
 ## Hi I'm Minh Do <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Minh Do, formerly a VNUAer. I Spend most of time coding outstanding projects.
+I'm Minh Do, formerly a VNUAer. My goal is to become a Mobile developer. 
 
 :mailbox: Reach me out!
 
@@ -9,6 +9,7 @@ I'm Minh Do, formerly a VNUAer. I Spend most of time coding outstanding projects
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @FPT-IS
+- 🌱 I’m currently learning Flutter
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: minhvan210999@hotmail.com.
 - 😄 Pronouns: MinDoo, Minh Do, meozz2109.
