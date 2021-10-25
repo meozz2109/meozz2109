@@ -4,7 +4,7 @@ I'm Minh Do, formerly a VNUAer. I Spend most of time coding outstanding projects
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Minh-Do-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-minh-2109/) [![Mail Badge](https://img.shields.io/badge/-@minhdo99-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/minhdo_99) [![Mail Badge](https://img.shields.io/badge/-minhvan210999-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:minhvan210999@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minhdo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-minh-2109/) [![Mail Badge](https://img.shields.io/badge/-@minhdo99-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/minhdo_99) [![Mail Badge](https://img.shields.io/badge/-minhvan210999-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:minhvan210999@hotmail.com)
 
 <!-- TODO: Add last video link -->
 
