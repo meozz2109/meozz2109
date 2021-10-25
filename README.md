@@ -19,7 +19,7 @@ I'm Minh Do, formerly a VNUAer. My goal is to become a Mobile developer.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-3C873A?style=for-the-badge&labelColor=black&logo=dart&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-007acc?style=for-the-badge&labelColor=black&logo=android&logoColor=007acc)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-3C873A?style=for-the-badge&labelColor=black&logo=dart&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
 
 #### Bizness
 - :paperclip: [My Resume/CV]
