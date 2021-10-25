@@ -21,7 +21,7 @@ I'm Minh Do, formerly a VNUAer. I Spend most of time coding outstanding projects
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-3C873A?style=for-the-badge&labelColor=black&logo=dart&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-007acc?style=for-the-badge&labelColor=black&logo=android&logoColor=007acc)](#)
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV]
 - :email: minhvan210999@hotmail.com
 
 
