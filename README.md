@@ -12,7 +12,7 @@ I'm Minh Do, formerly a VNUAer. My goal is to become a Mobile developer.
 - 🌱 I’m currently learning Flutter
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: minhvan210999@hotmail.com.
-- 😄 Pronouns: MinDoo, Minh Do, meozz2109.
+- 😄 Pronouns: MinDoo, Minh Do, Felix Luu, meozz2109.
 - ⚡ Fun fact: I listening to Indie music and work out at home very often.
 
 #### Top Technologies
